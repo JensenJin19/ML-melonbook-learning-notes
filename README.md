@@ -5,6 +5,8 @@ This repository contains my notes and exercises for the book "Machine Learning" 
 ## Structure
 
 - `docs/`: Study notes for each chapter.
+> Note
+> "Just summarizing **the difficult concepts** encountered while reading, rather than organizing the entire chapter's framework."
 - `exercise/`: Code for exercises in each chapter.
 - `references.md`: Resources referenced
 
