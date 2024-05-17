@@ -19,9 +19,8 @@ This repository contains my notes and exercises for the book "Machine Learning" 
 
 - [ ] Chapter 1: 绪论
   - Completion Date: 2024-05-16
-  - Unresolved Parts: [ex02.md](./exercise/chapter01/ex02.md), [ex03.md](./exercise/chapter01/ex03.md), [ex04.md](./exercise/chapter01/ex04.md)
+  - Unresolved Parts: [ex02/03/04](./exercise/chapter01.md)
   
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
