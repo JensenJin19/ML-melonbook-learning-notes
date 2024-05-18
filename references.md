@@ -10,3 +10,4 @@
 
 # Other references
 
+[知乎 - 能不能只要训练集和测试集，不要验证集呢?](https://www.zhihu.com/question/265443164/answer/2417856431)
