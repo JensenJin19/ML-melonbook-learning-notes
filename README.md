@@ -22,9 +22,42 @@ Unresolved issues will be addressed during the second reading of this book or at
   - Completion Date: 2024-05-16
   - Unresolved Parts: [ex02/03/04](./exercise/chapter01.md)
 
-- [ ] Chapter 2: 模型评估与选择
-  - Completion Date: 
-  - Unresolved Parts: 
+- [x] Chapter 2: 模型评估与选择
+  - Completion Date: 2024-05-21
+  - Unresolved Parts: [ex05/06/07/08/09/10](./exercise/chapter02.md), 西瓜书 2.3.4 及以后的部分
+
+- [ ] Chapter 3: 线性模型
+  - Completion Date:
+  - Unresolved Parts:
+
+- [ ] Chapter 4: 决策树
+  - Completion Date:
+  - Unresolved Parts:
+
+- [ ] Chapter 5: 神经网络
+  - Completion Date:
+  - Unresolved Parts:
+
+- [ ] Chapter 6: 支持向量机
+  - Completion Date:
+  - Unresolved Parts:
+
+- [ ] Chapter 7: 贝叶斯分类器
+  - Completion Date:
+  - Unresolved Parts:
+
+- [ ] Chapter 8: 集成学习
+  - Completion Date:
+  - Unresolved Parts:
+
+- [ ] Chapter 9: 聚类
+  - Completion Date:
+  - Unresolved Parts:
+
+- [ ] Chapter 10: 降维与度量学习
+  - Completion Date:
+  - Unresolved Parts:
+
 
 ## License
 
